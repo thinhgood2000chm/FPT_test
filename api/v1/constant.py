@@ -1,0 +1,2 @@
+AUTHEN_TYPE = 'bearer'
+
